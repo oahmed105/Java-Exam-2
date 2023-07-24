@@ -1,5 +1,8 @@
 package rocks.zipcode.assessment2.fundamentals;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class BasicStringUtils {
     /**
      * @param string1 - Base string to be added to
