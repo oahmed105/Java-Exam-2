@@ -1,6 +1,7 @@
 package rocks.zipcode.assessment2.collections;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -25,11 +26,8 @@ public class Inventory {
      * @param item - increment the number of this item in stock by 1
      */
     public void addItemToInventory(String item) {
-//        List<String> inventory = new ArrayList<>();
-//        for (String i: inventory) {
-//
-//        }
-
+        List<String> strings = new ArrayList<>();
+        strings.add(item + 1);
     }
 
     /**

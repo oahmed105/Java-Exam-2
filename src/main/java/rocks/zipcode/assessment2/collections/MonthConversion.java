@@ -1,6 +1,7 @@
 package rocks.zipcode.assessment2.collections;
 
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Use a map to solve
@@ -20,7 +21,6 @@ public class MonthConversion {
      */
     public String getName(Integer monthNumber) {
         throw new NullPointerException();
-//        MonthConversion mc = new MonthConversion();
     }
 
     /**
